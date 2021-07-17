@@ -4,4 +4,8 @@ This is a change
 another change to txt file
 git track changes
 new branch test
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is easy and simple.
+=======
+creating a new branch is easy and simple
+>>>>>>> feature1
