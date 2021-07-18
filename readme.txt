@@ -10,4 +10,4 @@ Creating a new branch is easy and simple.
 creating a new branch is easy and simple
 >>>>>>> feature1
 
-gogogogo on dev branch 
+gogogogo on dev branch of 1
